@@ -1,0 +1,38 @@
+#!/bin/bash
+url=https://www.health.pa.gov`curl 'https://www.health.pa.gov/topics/programs/immunizations/Pages/COVID-19-Vaccine-Providers.aspx' \
+   -H 'authority: www.health.pa.gov' \
+   -H 'pragma: no-cache' \
+   -H 'cache-control: no-cache' \
+   -H 'sec-ch-ua: "Google Chrome";v="87", " Not;A Brand";v="99", "Chromium";v="87"' \
+   -H 'sec-ch-ua-mobile: ?0' \
+   -H 'upgrade-insecure-requests: 1' \
+   -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36' \
+   -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+   -H 'sec-fetch-site: cross-site' \
+   -H 'sec-fetch-mode: navigate' \
+   -H 'sec-fetch-user: ?1' \
+   -H 'sec-fetch-dest: document' \
+   -H 'accept-language: en-US,en;q=0.9' \
+   -H 'cookie: paGov=1; WSS_FullScreenMode=false' \
+   -H 'dnt: 1' \
+   -H 'sec-gpc: 1' \
+   --compressed | grep xlsx | grep Locations | awk -F\" '{print $2}'`
+curl ${url} \
+  -H 'authority: www.health.pa.gov' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'sec-ch-ua: "Google Chrome";v="87", " Not;A Brand";v="99", "Chromium";v="87"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'referer: https://www.health.pa.gov/topics/programs/immunizations/Pages/COVID-19-Vaccine-Providers.aspx' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: WSS_FullScreenMode=false' \
+  -H 'dnt: 1' \
+  -H 'sec-gpc: 1' \
+  --compressed > data.xlsx
