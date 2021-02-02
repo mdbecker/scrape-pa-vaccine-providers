@@ -1,89 +1,144 @@
-Provider Location,Street,City,County,State,ZIP Code,Pfizer Doses Week 1,Delivered
-"Phoenixville Hospital, LLC",140 Nutt Road,Phoenixville,Chester,PA,19460,975,2020-12-17
-AHN Allegheny Valley Hospital,1301 Carlisle Street,Natrona Heights,Allegheny,PA,15065,975,2020-12-17
-AHN Grove City Hospital ,631 N Broad Street EXT,Grove City,Mercer,PA,16127,975,2020-12-17
-Abington Memorial Hospital,1200 Old York Road,Abington,Montgomery,PA,19001,975,2020-12-17
-Allegheny General Hospital,320 East North Avenue,Pittsburgh,Allegheny,PA,15212,1950,2020-12-17
-Brandywine Hospital,201 Reeceville Road,Coatesville,Chester,PA,19320,975,2020-12-17
-Butler Health System - Clarion Hospital,One Hospital Drive,Clarion,Clarion,PA,16214,975,2020-12-17
-Butler Memorial Hospital - Butler Health System,One Hospital Way,Butler,Butler,PA,16001,975,2020-12-17
-Canonsburg Hospital,100 Medical BLVD,Canonsburg,Washington,PA,15317,975,2020-12-17
-Chester County Hospital,701 E. Marshall St,West Chester,Chester,PA,19380,1950,2020-12-17
-Conemaugh Memorial Medical Center,1086 Franklin Street,Johnstown,Cambria,PA,15905,975,2020-12-17
-Conemaugh Nason Medical Center,105 Nason Dr ,Roaring Spring,Blair,PA,16673,975,2020-12-17
-Doylestown Hospital,595 West State Street,Doylestown,Bucks,PA,18901,1950,2020-12-15
-Einstein Medical Center Montgomery,559 W. Germantown Pike,East Norriton,Montgomery,PA,19403,1950,2020-12-17
-Evangelical Community Hospital,1 Hospital Drive,Lewisburg,Union,PA,17837,975,2020-12-15
-Excela Health Latrobe Hospital,1 Mellon Way,Latrobe,Westmoreland,PA,15650,975,2020-12-17
-Forbes Hospital,2570 Haymaker Road,Monroeville,Allegheny,PA,15146,975,2020-12-17
-Frick Hospital,508 South Church Street,Mount Pleasant,Westmoreland,PA,15666,975,2020-12-17
-Geisinger Lewistown,400 Highland Ave,Lewistown,Mifflin,PA,17044,975,2020-12-15
-Geisinger Medical Center,100 N Academy St,Danville,Montour,PA,17821,975,2020-12-17
-Geisinger Wyoming Valley,1000 E. Mountain Blvd.,Wilkes-Barre,Luzerne,PA,18711,975,2020-12-15
-Guthrie Robert Packer Hospital,1 Guthrie Square,Sayre,Bradford,PA,18840,975,2020-12-17
-Heritage Valley Beaver,1000 Dutch Ridge Rd,Beaver,Beaver,PA,15009,975,2020-12-17
-Heritage Valley Sewickly,720 BLACKBURN ROAD,SEWICKLY,Allegheny,PA,15143,975,2020-12-17
-Indiana Regional Medical Center,835 Hospital Road,Indiana,Indiana,PA,15701,975,2020-12-17
-Jefferson Regional Medical Center,565 Coal Valley Road,Jefferson Hills,Allegheny,PA,15025,975,2020-12-17
-Jennersville Hospital LLC,1015 West Baltimore Pike Employee Health,West Grove,Chester,PA,19390,975,2020-12-17
-Lancaster General Hospital,555 North Duke Street,Lancaster,Lancaster,PA,17602,1950,2020-12-17
-Lankenau Medical Center (Main Line Health System) ,100 E Lancaster Ave,Wynnewood,Montgomery,PA,19096,1950,2020-12-17
-Lehigh Valley Health Network,2024 Lehigh Street: Suite 600,Allentown,Lehigh,PA,18103,975,2020-12-17
-Lower Bucks Hospital,501 Bath Rd,Bristol,Bucks,PA,19007,975,2020-12-17
-Meadville Medical Center,751 Liberty Street,Meadville,Crawford,PA,16335,975,2020-12-17
-Monongahela Valley Hospital Inc.,1163 Country Club Road,Monongahela,Washington,PA,15063,975,2020-12-14
-Mount Nittany Medical Center,1800 East Park Ave,State College,Centre,PA,16803,975,2020-12-16
-Norristown State Hospital,1001 Sterigere Street,Norristown,Montgomery,PA,19401,975,2020-12-17
-PENN HIGHLANDS HUNTINGDON,1225 WARM SPRINGS AVENUE,HUNTINGDON,Huntingdon,PA,16652,975,2020-12-17
-Penn Highlands Dubois,100 Hospital Ave.,Dubois,Clearfield,PA,15801,975,2020-12-17
-Penn Highlands Elk,763 Johnsonburg Rd,St. Marys,Elk,PA,15857,975,2020-12-17
-Penn State Health- St. Joe,2500 Bernville Road,Reading,Berks,PA,19605,975,2020-12-17
-Pottstown Hospital,1600 E. High Street,Pottstown,Montgomery,PA,19464,1950,2020-12-17
-Reading Hospital,420 South 5th Avenue,Reading,Berks,PA,19611,975,2020-12-17
-Saint Luke's Anderson,1872 St. Lukes' Blvd,Easton,Northampton,PA,18045,1950,2020-12-17
-Saint Luke's Bethlehem,801 Ostrum St,Bethlehem,Northampton,PA,18015,1950,2020-12-17
-Saint Luke's Sacred Heart,421 Chew Street,Allentown,Lehigh,PA,18102,975,2020-12-17
-Saint Vincent Health Center,232 West 25th Street,Erie,Erie,PA,16544,1950,2020-12-17
-St Mary Medical Center,1201Langhorne-NewtownRd,Langhorne,Bucks,PA,19047,975,2020-12-17
-Suburban Community Hospital,2701 DeKalb Pike,East Norriton,Montgomery,PA,19401,975,2020-12-16
-Titusville Area Hospital,406 W. Oak Street,Titusville,Crawford,PA,16354,975,2020-12-15
-UPMC Altoona,620 Howard Ave,Altoona,Blair,PA,16601,975,2020-12-16
-UPMC Children's Hospital Pittsburgh,4401 Penn Avenue,Pittsburgh,Allegheny,PA,15224,975,2020-12-14
-UPMC Cole,1001 East Second Street,Coudersport,Potter,PA,16915,975,2020-12-17
-UPMC East,2775 Mosside Blvd.,Monroeville,Allegheny,PA,15146,975,2020-12-17
-UPMC Hamot,201 State St.,Erie,Erie,PA,16550,975,2020-12-17
-UPMC Horizon Greenville,110 N. Main St.,Greenville,Mercer,PA,16125,975,2020-12-17
-UPMC Horizon Shenango,2200 Memorial Dr.,Farrell,Mercer,PA,16121,975,2020-12-17
-UPMC Jameson,1211 Wilmington Ave.,New Castle,Lawrence,PA,16105,975,2020-12-17
-UPMC Kane,4372 Route 6,Kane,McKean,PA,16735,975,2020-12-17
-UPMC Lititz,1500 Highland Dr,Lititz,Lancaster,PA,17543,975,2020-12-17
-UPMC Magee-Women's Hospital,300 Halket St.,Pittsburgh,Allegheny,PA,15213,975,2020-12-17
-UPMC McKeesport,1500 Fifth Ave.,McKeesport,Allegheny,PA,15132,975,2020-12-17
-UPMC Northwest,100 Fairfield Dr.,Seneca,Venango,PA,16346,975,2020-12-17
-UPMC Passavant Cranberry,1 St. Francis Way,Cranberry Twp.,Butler,PA,16066,975,2020-12-17
-UPMC Passavant,9100 Babcock Blvd.,Pittsburgh,Allegheny,PA,15237,975,2020-12-17
-UPMC Pinnacle Carlisle,361 Alexander Spring Rd,Carlisle,Cumberland,PA,17105,975,2020-12-17
-UPMC Pinnacle Community Osteopathic,4300 Londonderry Rd,Harrisburg,Dauphin,PA,17109,975,2020-12-17
-UPMC Pinnacle Hanover,300 Highland Ave,Hanover,York,PA,17331,975,2020-12-17
-UPMC Pinnacle Harrisburg,111 S Front St,Harrisburg,Dauphin,PA,17101,975,2020-12-17
-UPMC Pinnacle Memorial,1701 Innovation Dr,York,York,PA,17408,975,2020-12-17
-UPMC Pinnacle West Shore,1995 Technology Parkway,Mechanicsburg,Cumberland,PA,17050,975,2020-12-17
-UPMC Presbyterian,200 Lothrop Street,Pittsburgh,Allegheny,PA,15213,1950,2020-12-15
-UPMC Shadyside Hospital,5230 Center avenue,Pittsburgh,Allegheny,PA,15232,975,2020-12-17
-UPMC Somerset,225 S. Center Ave.,Somerset,Somerset,PA,15501,975,2020-12-17
-UPMC Wellsboro,UMPC Wellsboro Pharmacy 32-36 Central Avenue ,Wellsboro,Tioga,PA,16901,975,2020-12-17
-UPMC Williamsport,700 High Street,Williamsport,Lycoming,PA,17701,1950,2020-12-17
-UPMC-Mercy,1400 Locust Street,Pittsburgh,Allegheny,PA,15219,975,2020-12-16
-Uniontown Hospital,500 West Berkeley Street,Uniontown,Fayette,PA,15417,975,2020-12-17
-WellSpan Chambersburg Hospital ,112 N 7th St,Chambersburg,Franklin,PA,17201,975,2020-12-16
-WellSpan Ephrata Community Hospital,169 Martin Avenue,Ephrata,Lancaster,PA,17522,975,2020-12-17
-WellSpan Gettysburg Hospital ,147 Gettys St,Gettysburg,Adams,PA,17325,975,2020-12-16
-WellSpan Good Samaritan Hospital,"252 S 4th St, 4th & Walnut St",Lebanon,Lebanon,PA,17042,975,2020-12-15
-WellSpan Hospital York,1001 S George St,York,York,PA,17405,975,2020-12-17
-WellSpan Surgery & Rehabilitation Hospital,55 Monument Road,York,York,PA,17403,975,2020-12-17
-WellSpan Waynesboro Hospital ,501 E Main St,Waynesboro,Franklin,PA,17268,975,2020-12-16
-West Penn Hospital,4800 Friendship Avenue,Pittsburgh,Allegheny,PA,15224,1950,2020-12-17
-Westmoreland Regional Hospital,532 West Pittsburgh Street,Westmoreland,Greensburg,PA,15601,975,2020-12-17
-Wilkes Barre General Hospital,575 North River Street,Wilkes Barre,Luzerne,PA,18705,975,2020-12-17
-Windber Hospital,600 Somerset Ave,Windber,Somerset,PA,15963,975,2020-12-17
-TOTAL,,,,,,97500,
+Provider Location,Street,City,County,State,ZIP Code,Pfizer Doses Week 2,Delivered,Moderna Doses Week 2,Delivered_2
+"Rx Partners, LTC-LLC",500 Old Pond Road Suite 406,Bridgeville,Allegheny,PA,15017,,,1200,2020-12-23
+ACMH Hospital,One Nolte Drive,Kittanning,Armstrong,PA ,16201,,,500,2020-12-21
+Alere Family Health,334 Hartman Bridge Rd,Ronks,Lancaster,PA,17604,,,100,2020-12-23
+Allegheny County Health Dept-Immunization Cl,425 1st Avenue,Pittsburgh,Allegheny,PA,15219,,,1000,2020-12-23
+Allentown Health Bueau,Alliance Hall,Allentown,Lehigh,PA ,18102,,,1500,2020-12-23
+Aria Health- Bucks,380 N.Oxford Valley Rd.,Langhorne,Bucks,PA ,19047,975,2020-12-21,,
+Armstrong Primary Care Ctr-Elderton,116 Main Street,Elderton,Armstrong,PA ,15736,,,100,2020-12-23
+BERWICK HOSPITAL CENTER,701 EAST 16TH STREET,BERWICK,Columbia,PA ,18603,,,200,2020-12-21
+BTAMC Pediatric and Family Health Care Center ,6678 Towne Center Blvd 6678,Huntingdon,Huntingdon,PA,16652,,,100,2020-12-23
+Bethlehem Health Bureau,10 East Church Street,Bethlehem,Northampton,PA ,18018,,,700,2020-12-23
+Brandywine Hospital,201 Reeceville Rd,Coatesville ,Chester,PA,19320,,,2000,2020-12-23
+CONEMAUGH MINERS MEDICAL CENTER,290 HAIDA AVENUE,HASTINGS,Cambria,PA,16646,,,100,2020-12-21
+Centerville Fredericktown,1070 Old National Pike Rd,Fredericktown,Washington,PA,15333,,,100,2020-12-23
+Centerville Uniontown,86 McClellandtown Rd,Uniontown,Fayette,PA,15401,,,100,2020-12-23
+Centerville Washington,37 Highland Ave,Washington,Washington,PA,15301,,,100,2020-12-23
+ChesPenn Health Services,125 E. 9th St,Chester,Delaware,PA,19013,,,200,2020-12-23
+Chester County Health Dept,601 Westtown Road,West Chester,Chester,PA ,19380,,,2000,2020-12-23
+Chester County Hospital,701 E. Marshall St,West Chester ,Chester,PA,19380,,,3000,2020-12-23
+Conemaugh Meyersdale Medical Center,200 Hospital Drive,Meyersdale,Somerset,PA,15552,,,100,2020-12-23
+Corry Memorial Hospital SVC-300,965 Shamrock Lane,Corry,Erie,PA,16407,,,100,2020-12-23
+Crozer Hospital,1 Medical Center Blvd,Upland (Chester),Delaware,PA ,19014,975,2020-12-21,,
+Danville State Hospital,50 Kirkbride Drive,Danville,Montour ,PA ,17822,,,600,2020-12-23
+Dauphin County State Health Center,30 Kline Plaza ,Harrisburg,Dauphin,PA,17104,,,100,2020-12-23
+Delaware County Memorial Hospital,501 N. Lansdowne Ave,Drexel Hill,Delaware,PA ,19026,975,2020-12-21,,
+Einstein Medical Center-Montgomery,559 W. Germantown Pike,East Norriton,Montgomery,PA,19401,,,2000,2020-12-23
+Encompass Health Rehabilitation Hospital of Altoona,2005 Valley View Boulevard,Altoona,Blair,PA ,16602,,,100,2020-12-23
+Encompass Health Rehabilitation Hospital of Nittany Valley,550 West College Avenue,Pleasant Gap,Centre,PA,16823,,,100,2020-12-23
+Family First George Street Center,116 South George Street,York,York,PA,17405,,,300,2020-12-21
+Family Health Clinic Of BK-Susquehanna,2872 Turnpike St.,Susquehanna,Susquehanna,PA ,18847,,,1000,2020-12-23
+GHS-BLOOMSBURG HOSPITAL,549 Fair Street,Bloomsburg,Columbia,PA ,17815,,,3000,2020-12-23
+GHS-BRADFORD,116 INSTERSTATE PARKWAY,BRADFORD,McKean,PA ,16701,,,300,2020-12-23
+Geisinger Community Medical Center,1822 Mulberry St,Scranton,Lackawanna,PA,18510,,,2000,2020-12-23
+Geisinger Encompass Health Limited Liability,64 Rehab Lane,Danville,Montour ,PA ,17822,,,100,2020-12-23
+Geisinger Jersey Shore Hospital,1020 Thompson Street,Jersey Shore,Lycoming,PA ,17740,,,3000,2020-12-23
+Geisinger Lewistown,400 Highland Ave.,Lewistown,Mifflin,PA ,17044,975,2020-12-21,2000,2020-12-23
+Geisinger Medical Center,100 N Academy St,Danville,Montour,PA,17822,975,2020-12-21,2000,2020-12-23
+Geisinger St.Luke's,100 Paramount Blvd.,Orwigsburg,Schuylkill,PA ,17961,,,300,2020-12-21
+Geisinger Wyoming Valley,1000 E. Mountain Blvd.,Wilkes Barre,Luzerne,PA,18711,975,2020-12-21,2000,2020-12-23
+Grand View Hospital,700 Lawn Ave,Sellersville,Bucks,PA,18960,1950,2020-12-22,,
+HERITAGE VALLEY KENNEDY ,25 Heckel Road,McKees Rocks,Allegheny,PA,15136,,,2000,2020-12-21
+Hamilton Health Center,110 S 17th St,Harrisburg,Dauphin,PA,17104,,,200,2020-12-21
+Highland Physicians Family Health Center,1839 Fair Avenue,Honesdale,Wayne,PA,18431,,,100,2020-12-21
+Highland Physicians Family Health Center,1839 Fair Avenue,Honesdale,Wayne,PA,18431,,,300,2020-12-21
+Highlands Hospital,401 East Murphy Ave,Connellsville,Fayette,PA ,15425,975,2020-12-21,,
+Hilltop Pharmacy,818 E. Warrington Ave.,Pittsburgh,Allegheny,PA,15201,,,100,2020-12-23
+Holy Redeemer Hospital,1648 Huntingdon Pike,Meadowbrook,Montgomery,PA,19046,,,3000,2020-12-23
+Hyndman Area Health Center Bedford,104 Railroad St,Bedford,Bedford,PA,15522,,,100,2020-12-21
+KRHC-Cameron County HC-MAIN,90 East 2nd Street,Emporium,Cameron,PA ,15834,,,500,2020-12-23
+KRHC-Ridgway Medical Center,49 Ridgmont Dr,Ridgway,Elk,PA ,15853,,,1000,2020-12-23
+Keystone Community Health Services,111 Chambers Hill Dr,Chambersburg,Franklin,PA ,17201,,,300,2020-12-21
+Keystone Pediatrics - Chambersburg ,"830 Fifth Ave, Suite 103",Chambersburg,Franklin,PA ,17201,,,300,2020-12-21
+La Comunidad Hispana,731 W Cypress St,Kennett Square,Chester,PA ,17522,,,200,2020-12-21
+Lancaster General Hospital,555 N Duke St,Lancaster,Lancaster,PA,17604,,,3000,2020-12-23
+Lancaster Health Center,304 North Water St,Lancaster,Lancaster,PA ,17603,,,200,2020-12-21
+Lancaster Rehabilitation Hospital,675 Good Drive,Lancaster,Lancaster,PA ,17601,,,100,2020-12-23
+Lankenau Medical Center (Main Line Health System) ,100 E Lancaster Ave,Wynnewood,Montgomery,PA,19096,975,2020-12-21,3000,2020-12-23
+Lansdale Hospital,100 Medical Campus Drive,Lansdale,Montgomery,PA ,19446,,,400,2020-12-21
+Lehigh Valley Health Network,2024 Lehigh Street: Suite 600,Allentown,Lehigh,PA,18103,2925,2020-12-21,4000,2020-12-23
+MILLCREEK COMMUNITY HOSPITAL,5515 PEACH STREET,ERIE,Erie,PA,16508,,,600,2020-12-21
+Mercy Fitzgerald,1500 Landsdowne Ave,Darby,Delaware,PA,19023,,,600,2020-12-21
+Metro Community Health Center,"1789 S Braddock Ave, Ste 410",Pittsburgh,Allegheny,PA,15218,,,100,2020-12-23
+Moses Taylor Hospital,700 Quincy Ave.,Scranton,Lackawanna,PA,18510,,,1200,2020-12-23
+Mount Nittany Medical Center,1800 East Park Avenue,State College,Centre,PA,16803,,,1000,2020-12-23
+Norristown Health Center- Montgomery County,1430 Dekalb Street Floor 2,Norristown,Montgomery,PA ,19401,,,2000,2020-12-23
+PHN Clarion Community Health Center,30 Pinnacle Drive  Suite 101,Clarion,Clarion,PA ,16214,,,100,2020-12-23
+PHN Lewistown Community Health Center,106 Derry Heights  Suite 100,Lewistown,Mifflin ,PA ,17044,,,100,2020-12-23
+PHN Sharon Medical Group pediatrics,63 Pitt St   Suite 202,Sharon,Mercer ,PA ,16146,,,200,2020-12-23
+PUNXSUTAWNEY AREA HOSPITAL,81 HILLCREST DRIVE,PUNXSUTAWNEY,Jefferson,PA,15767,,,600,2020-12-21
+Paoli Surgery Center,1 Industrial Blvd,Paoli,Chester,PA ,19301,,,100,2020-12-23
+Penn Highalnds Brookville,100 Hospital Rd,Brookville,Jefferson,PA,15825,,,300,2020-12-23
+Penn Highlands Clearfield,809 Turnpike Ave,Clearfield,Clearfield,PA,16830,,,300,2020-12-23
+Penn Highlands Tyrone Hospital,187 Hospital Drive,Tyrone,Blair,PA,16686,,,200,2020-12-22
+Penn State Health Holy Spirit Medical Center,503 North 21st Street,Camp Hill ,Cumberland,PA,17011,1950,2020-12-21,,
+Penn State Health Milton S Hershey Medical Center,500 University Dr,Hershey,Dauphin,PA ,17033,1950,2020-12-21,,
+Perry Physicians,4570 Valley Rd,Shermans Dale,Perry,PA,17090,,,100,2020-12-23
+Pinnacle Health Select Rehab LLC,4300 Londonderry Rd,Harrisburg,Dauphin,PA,17109,,,300,2020-12-21
+Pottstown Hospital- Tower Health,1600 E High St,Pottstown,Montgomery,PA,19464,,,2000,2020-12-23
+Primary Care Associates of Western Pennsylvania ,477 Route 28,Brookville,Jefferson,PA ,15825,,,100,2020-12-23
+Reading Hospital,420 South 5th Avenue,Reading,Berks,PA ,19611,1950,2020-12-21,2000,2020-12-23
+Regional Hospital of Scranton,746 Jefferson Ave.,Scranton,Lackawanna,PA ,18510,,,1000,2020-12-23
+Robert Packer Hospital (The Guthrie Clinic),1 Guthrie Square,Sayre,Bradford,PA,18840,,,2000,2020-12-23
+SLPG Star Wellness Family Practice-Bethlehem,2830 Easton Avenue,Bethlehem (Part-Northampton),Northampton,PA ,18015,,,200,2020-12-23
+SLPG Star Wellness Family Practice-Sigal,450 Chew Street,Allentown,Lehigh,PA ,18102,,,200,2020-12-23
+Sadler Health Center,100 N Hanover St,Carlisle,Cumberland,PA,17017,,,100,2020-12-21
+Saint Clair Memorial Hospital,1000 BOWER HILL ROAD,Pittsburgh,Allegheny,PA,15243,1950,2020-12-21,,
+Saint John Vianney Center,151 Woodbine Road,Downingtown,Chester,PA ,19335,,,100,2020-12-23
+Saint Lukes Anderson,1872 St.Lukes' Blvd,Easton,Northampton,PA,18045,,,2000,2020-12-23
+Saint Lukes Bethlehem,801 Ostrum St,Bethlehem,Northampton,PA,18015,,,3000,2020-12-23
+Saint Lukes Sacred Heart,421 Chew Street,Allentown,Lehigh,PA,18102,,,2000,2020-12-23
+Saint Margaret,815 FREEPORT ROAD,Pittsburgh,Allegheny,PA ,15215,975,2020-12-21,,
+Saint Mary Medical Center,1201 Langhorne-Newtown Rd,Langhorne,Bucks,PA,19047,975,2020-12-21,,
+Saint Vincent Health Center,232 West 25th St,Erie,Erie,PA ,16544,975,2020-12-21,,
+Scranton Primary Health Care Center Inc Alder,425 Alder Street,Scranton,Lackawanna,PA ,18510,,,100,2020-12-23
+Scranton Primary Health Care Center Inc,959 Wyoming Avenue,Scranton,Lackawanna,PA ,17601,,,400,2020-12-23
+Select Specialty Hospital - Camp Hill,"503 North 21st Street, 5th Floor",Camp Hill,Cumberland,PA ,17011,,,100,2020-12-23
+Select Specialty Hospital Johnstown,320 Main St. ,Johnstown,Cambria,PA,15905,,,100,2020-12-23
+Select Specialty Hospital- Central PA (Harrisburg Campus),"111 S Front Street, 5th Floor",Harrisburg,Dauphin,PA ,17101,,,100,2020-12-23
+Select Specialty Hospital-Danville,100 N Academy Ave,Danville,Montour ,PA ,17822,,,100,2020-12-23
+Sharon Regional Medical Center,740 East State ,Sharon,Mercer,PA ,16146,975,2020-12-21,,
+Southern Family Medicine LLC,16312 Mt. Airy Rd,Shrewsbury,York,PA ,17361,,,100,2020-12-23
+Squirrel Hill,4516 Browns Hill Rd,Pittsburgh,Allegheny,PA,15217,,,100,2020-12-23
+Squirrel Hill- Brentwood,103 Towne Square Way,Pittsburgh,Allegheny,PA ,15227,,,100,2020-12-23
+St. Luke's Monroe,100 St.Luke's Lane,Stroudsburg,Monroe,PA ,18360,,,900,2020-12-21
+St. Luke's Upper Bucks Campus,3000 St. Luke's Drive,Quakertown,Bucks,PA ,18951,,,700,2020-12-21
+St.Luke's University Health Network Allentown campus,1736 Hamilton St. ,Allentown,Lehigh,PA ,18104,,,1400,2020-12-21
+St.Luke's University Health Network Lehighton Campus,211 North 12th Street,Lehighton,Carbon,PA ,18235,,,700,2020-12-21
+St.Luke's University Health Network  Miners Campus,360 West Ruddle St.,Coaldale,Schuylkill,PA ,18218,,,600,2020-12-21
+St.Luke's University Network Easton Campus,250 South 21st Street,Easton,Northampton,PA ,18042,,,400,2020-12-21
+Surgical Institute of Reading,2752 Century Blvd,Wyomissing,Berks,PA,19610,,,100,2020-12-23
+Susquehanna Community Health and Dental,471 Hepburn St,Williamsport,Lycoming,PA,17701,,,100,2020-12-23
+THE WRIGHT CENTER FOR COMMUNITY HEALTH,103 Spruce St,Hawley,Wayne,PA,18428,,,200,2020-12-21
+THE WRIGHT CENTER-CLARKS SUMMIT,1145 NORTHERN BOULEVARD,Clarks Summit,Lackawanna,PA,18411,,,200,2020-12-21
+THE WRIGHT CENTER-MID VALLEY,5 SOUTH WASHINGTON AVENUE,Jermyn,Lackawanna,PA,18433,,,200,2020-12-23
+THE WRIGHT CTR CHILDRENS SERVICE CTR,335 S Franklin St,Wilkes Barre,Luzerne,PA,18702,,,200,2020-12-21
+THE WRIGHT CTR STUDENT HLTH SERVS,1401 Fellows St,Scranton,Lackawanna,PA,18504,,,200,2020-12-21
+TYLER MEMORIAL HOSPITAL,5950 State Route 6,TUNKHANNOCK,Wyoming,PA ,18657,,,100,2020-12-21
+The Fulton County Medical Center,214 Peach Orchard Road,McConnellsburg,Fulton,PA,17233,,,300,2020-12-21
+The Medical Center at Woods,10 Meadowood Dr.,Langhorne,Bucks,PA ,19047,1950,2020-12-21,,
+The Medicine Shoppe,709 Ligonier Street,Latrobe,Westmoreland,PA,15650,,,100,2020-12-23
+The Wright Center-Kingston Clinic,2 Sharpe St,Kingston,Luzerne,PA,18704,,,200,2020-12-21
+The Wright Ctr for Com Hlth Scranton Practice,"501 S Washington Ave, Suite 1000",Scranton,Lackawanna,PA,18505,,,200,2020-12-21
+Torrance State Hospital,121 Longview Drive,Torrance,Westmoreland,PA ,15779,,,700,2020-12-23
+UPMC Altoona,620 Howard Ave,Altoona,Blair,PA,16601,,,1300,2020-12-23
+UPMC Bedford,10455 Lincoln Hwy,Everett,Bedford,PA,15537,,,100,2020-12-23
+UPMC Bedford,10455 Lincoln Hwy,Everett,Bedford,PA,15537,,,200,2020-12-21
+UPMC Childrens Hospital Pittsburgh,4401 Penn Avenue,Pittsburgh,Allegheny,PA,15224,,,2200,2020-12-23
+UPMC Magee-Womens Hospital,300 Halket St.,Pittsburgh,Allegheny,PA,15213,,,1600,2020-12-23
+UPMC Pinnacle Harrisburg,111 S Front St,Harrisburg,Dauphin,PA,17101,,,2600,2020-12-23
+UPMC Presbyterian,200 Lothrop Street,Pittsburgh,Allegheny,PA,15213,,,1200,2020-12-23
+UPMC Presbyterian,200 Lothrop Street,Pittsburgh,Allegheny,PA,15213,,,3000,2020-12-23
+UPMC Shadyside Hospital,5230 Center Avenue,Pittsburgh,Allegheny,PA,15232,,,1000,2020-12-23
+UPMC Western Psychiatric Hospital,3811 O'Hara Street,Pittsburgh,Allegheny,PA,15213,975,2020-12-21,1300,2020-12-23
+UPMC Williamsport,700 High Street,Williamsport,Lycoming,PA,17701,,,400,2020-12-23
+UPMC-Mercy,1400 Locust Street,Pittsburgh,Allegheny,PA,15219,,,1600,2020-12-23
+UPMC-Pinnacle Harrisburg,111 S Front Street,Harrisburg,Dauphin,PA,17101,,,1000,2020-12-23
+Warren General Hospital,Two Crescent Park West,Warren,Warren,PA ,16365,,,600,2020-12-21
+Warren State Hospital - Employee Health,332 Main Dr.,Warren,Warren,PA ,16365,,,500,2020-12-23
+Washington Hospital,155 WILSON AVENUE,WASHINGTON,WASHINGTON,PA,15301,1950,2020-12-21,,
+Wernersville State Hospital,160 Main St,Wernersville,Berks,PA ,19565,,,200,2020-12-23
+Wilkes Barre General Hospital,575 North River Street,Wilkes Barre,Luzerne,PA,18705,975,2020-12-21,,
+Wilkes Barre Municiple Health Department,71 North Franklin St.,Wilkes Barre,Luzerne,PA ,18702,,,200,2020-12-23
+Wind Gap Community Pharmacy Inc.,31 West 1st St,Wind Gap,Monroe,PA,18091,,,500,2020-12-23
+TOTAL,,,,,,30225,,101600,
