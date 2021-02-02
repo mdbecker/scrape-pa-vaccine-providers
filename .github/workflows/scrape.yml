@@ -20,7 +20,7 @@ jobs:
       run: |-
         bash scrape.sh
     - name: Convert to csv
-      run |-
+      run: |-
         in2csv data.xlsx > data_raw.csv
         bash sort.sh data_raw.csv > data.csv
         rm data_raw.csv
