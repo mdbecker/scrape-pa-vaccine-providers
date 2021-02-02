@@ -12,9 +12,18 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |-
+        python -m pip install --upgrade pip
+        pip install --no-input --yes csvkit
     - name: Fetch latest data
       run: |-
         bash scrape.sh
+    - name: Convert to csv
+      run |-
+        in2csv data.xlsx > data_raw.csv
+        bash sort.sh data_raw.csv > data.csv
+        rm data_raw.csv
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
